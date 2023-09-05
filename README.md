@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Want to know about me? Visit [my website](https://wonj.me)!
 <!--
 **wonj1012/wonj1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
