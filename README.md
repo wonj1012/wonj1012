@@ -1,1 +1,3 @@
-### Want to know about me? Visit [my website](https://wonj.me)!
+### Hi there 👋
+
+Want to know about me? Visit [my website](https://wonj.me)!
